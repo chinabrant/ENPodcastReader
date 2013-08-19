@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASINetworkQueue.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IPhone-Projects/!svn/ver/6/trunk/inCarTime/SourceCode/OpenCode/ASIHTTP/ASIDataCompressor.m
+END
