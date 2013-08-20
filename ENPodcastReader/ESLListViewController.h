@@ -9,7 +9,7 @@
 #import "BaseViewController.h"
 @class ESLContainer;
 
-@interface ESLListViewController : BaseViewController <UITableViewDataSource, UITableViewDelegate> {
+@interface ESLListViewController : BaseViewController <UITableViewDataSource, UITableViewDelegate, UISearchBarDelegate> {
     UITableView *_tableView;
     NSMutableArray *dataArray;
     ESLContainer *esl;

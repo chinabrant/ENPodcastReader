@@ -30,10 +30,16 @@
     self.window = [[[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]] autorelease];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
-    [self.window makeKeyAndVisible];
     
     ESLListViewController *list = [[[ESLListViewController alloc] init] autorelease];
-    self.window.rootViewController = list;
+    UINavigationController *nav = [[[UINavigationController alloc] initWithRootViewController:list] autorelease];
+    self.window.rootViewController = nav;
+    
+    
+    
+    [self.window makeKeyAndVisible];
+    
+    
     
     
 //    [paster release];

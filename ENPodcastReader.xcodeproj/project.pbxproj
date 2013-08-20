@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		58064B3217C3017A009C4796 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 58064B3117C3017A009C4796 /* Default.png */; };
+		58064B3417C30188009C4796 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58064B3317C30188009C4796 /* Default@2x.png */; };
+		58064B3617C30191009C4796 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58064B3517C30191009C4796 /* Default-568h@2x.png */; };
+		58064B3917C302EA009C4796 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58064B3817C302EA009C4796 /* DetailViewController.m */; };
+		58064B3C17C30A3C009C4796 /* CommonFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = 58064B3B17C30A3B009C4796 /* CommonFunction.m */; };
 		6113243117C2631800F25983 /* ESLItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 6113243017C2631800F25983 /* ESLItem.m */; };
 		6113243417C2698E00F25983 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6113243317C2698E00F25983 /* BaseViewController.m */; };
 		6113243717C26A5D00F25983 /* ESLListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6113243617C26A5D00F25983 /* ESLListViewController.m */; };
@@ -30,6 +35,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		58064B3117C3017A009C4796 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		58064B3317C30188009C4796 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		58064B3517C30191009C4796 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		58064B3717C302EA009C4796 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		58064B3817C302EA009C4796 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		58064B3A17C30A3B009C4796 /* CommonFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommonFunction.h; sourceTree = "<group>"; };
+		58064B3B17C30A3B009C4796 /* CommonFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommonFunction.m; sourceTree = "<group>"; };
 		6113242F17C2631800F25983 /* ESLItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESLItem.h; sourceTree = "<group>"; };
 		6113243017C2631800F25983 /* ESLItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ESLItem.m; sourceTree = "<group>"; };
 		6113243217C2698E00F25983 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
@@ -88,6 +100,11 @@
 		61D5BFA817B7D26800C50F2E = {
 			isa = PBXGroup;
 			children = (
+				58064B3A17C30A3B009C4796 /* CommonFunction.h */,
+				58064B3B17C30A3B009C4796 /* CommonFunction.m */,
+				58064B3517C30191009C4796 /* Default-568h@2x.png */,
+				58064B3317C30188009C4796 /* Default@2x.png */,
+				58064B3117C3017A009C4796 /* Default.png */,
 				6113243B17C2840C00F25983 /* ESLPodcast */,
 				61D5BFBC17B7D26800C50F2E /* ENPodcastReader */,
 				61D5BFB317B7D26800C50F2E /* Frameworks */,
@@ -129,6 +146,8 @@
 				6113243317C2698E00F25983 /* BaseViewController.m */,
 				6113243517C26A5D00F25983 /* ESLListViewController.h */,
 				6113243617C26A5D00F25983 /* ESLListViewController.m */,
+				58064B3717C302EA009C4796 /* DetailViewController.h */,
+				58064B3817C302EA009C4796 /* DetailViewController.m */,
 			);
 			path = ENPodcastReader;
 			sourceTree = "<group>";
@@ -243,6 +262,9 @@
 				61D5BFCD17B7D26800C50F2E /* Default-568h@2x.png in Resources */,
 				61D5BFE217B7D8E200C50F2E /* users.xml in Resources */,
 				61D5BFE917B7DEE500C50F2E /* past.xml in Resources */,
+				58064B3217C3017A009C4796 /* Default.png in Resources */,
+				58064B3417C30188009C4796 /* Default@2x.png in Resources */,
+				58064B3617C30191009C4796 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,6 +284,8 @@
 				6113243417C2698E00F25983 /* BaseViewController.m in Sources */,
 				6113243717C26A5D00F25983 /* ESLListViewController.m in Sources */,
 				6113243A17C2771600F25983 /* ESLContainer.m in Sources */,
+				58064B3917C302EA009C4796 /* DetailViewController.m in Sources */,
+				58064B3C17C30A3C009C4796 /* CommonFunction.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
